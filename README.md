@@ -1,4 +1,4 @@
-# NavBar
+# Sidebar and Modal
 12th of 15 React Projects following [John Smilga](https://github.com/john-smilga/react-projects) tutorial from FreeCodeCamp course. 
 React Hooks useState, useEffect and useRef was used to open the menu, the modal, and select the DOM item for manipulation.
 
